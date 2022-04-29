@@ -1,0 +1,25 @@
+body {
+    font-family: aComic Sans MS, Comic Sans, cursive;
+}
+.navbar {
+	background-color: #5d6d80;
+}
+.quem-somos {
+	background-color: #D6DBDF;
+}
+.margin {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.finalidade {
+	background-color: #D6DBDF;
+}
+.contatos {
+	background-color: #D6DBDF;
+}
+.contact {
+	border-radius: 8%;
+}
+.bg-footer {
+	background-color: #5d6d80;
+}
